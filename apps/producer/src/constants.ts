@@ -1,0 +1,4 @@
+const CONSTANTS = {
+  ORDER_SERVICE: 'ORDER_SERVICE',
+};
+export default CONSTANTS;
